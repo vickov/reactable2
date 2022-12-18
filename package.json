@@ -2,9 +2,9 @@
   "name": "newappwithnext",
   "version": "1.0.0",
   "author": "Christian Trinidad",
-  "license": "ISC",
-  "repository": "",
+  "private": true,
   "scripts": {
+    "dev": "next dev",
     "dev": "next dev",
     "build": "next build",
     "start": "next run",
